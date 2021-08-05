@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="XML" injector-id="xml">
+      <display-name>description</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("description"))]]></place>
+    </injection>
+  </component>
+</application>
