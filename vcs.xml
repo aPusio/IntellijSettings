@@ -30,6 +30,10 @@
           <option name="url" value="ssh://git@stash.allegrogroup.com/l4/delivery-method-data-loader.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:allegro-internal/delivery-method-changer.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/allegro" />
