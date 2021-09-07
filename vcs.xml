@@ -42,6 +42,10 @@
           <option name="url" value="ssh://git@stash.allegrogroup.com/offercorestore/offer-store.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@stash.allegrogroup.com/plall/offercore-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/allegro" />
