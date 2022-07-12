@@ -1,0 +1,10 @@
+<application>
+  <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="cassandra">
+      <artifact id="Cassandra" name="Cassandra" use="true" version="1.4" />
+    </driver>
+    <driver id="h2.unified">
+      <artifact id="H2" name="H2" use="true" version="2.1.210" />
+    </driver>
+  </component>
+</application>
