@@ -3,72 +3,196 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="https://aPusio@bitbucket.org/aPusio/hibernatebase.git" />
+          <option name="url" value="git@github.com:allegro-internal/development-workshop-six.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://bitbucket.org" />
-          <option name="userName" value="aPusio" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://aPusio@bitbucket.org/aPusio/jdbcbase.git" />
+          <option name="url" value="git@github.com:allegro-internal/vte-data-templates.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://aPusio@bitbucket.org/aPusio/javagda49-jdbc.git" />
+          <option name="url" value="git@github.com:allegro-internal/postal-codes.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://bitbucket.org" />
+          <option name="url" value="git@github.com:aPusio/aoc-in-kotlin.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://aPusio@bitbucket.org/aPusio/hibernatejavagda49.git" />
+          <option name="url" value="git@github.com:aPusio/snow.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/aPusio/projekt-grupowy-opis.git" />
+          <option name="url" value="git@github.com:mrugacz95/advent-of-code-2021.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/bandreatto/sda.git" />
+          <option name="url" value="git@github.com:marad/advent-of-code-2021.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@github.com:aPusio/SDA_JDBC-Hibernate_presentation.git" />
+          <option name="url" value="git@github.com:allegro-internal/zookeeper-allegro-configuration.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/aPusio/SDA_JDBC-Hibernate_presentation.git" />
+          <option name="url" value="git@github.com:tomaboro/advent-of-code-2021.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/aPusio/projekt-grupowy-sample.git" />
+          <option name="url" value="https://github.com/aPusio/projekt-grupowy-javagda49.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/aPusio/jdbc-zdjavapol107.git" />
+          <option name="url" value="git@github.com:allegro-internal/edge-server-config.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:allegro-internal/edge-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:allegro-internal/edge-configuration-tool.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:allegro-internal/seller-offer-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:allegro-internal/delivery-time-predictor.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:allegro-internal/seller-extras.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:allegro-internal/product-groups.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Kido-bit/Checkers.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:allegro-internal/lingo-monitoring.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:allegro-internal/offer-additional-services-config.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:allegro-internal/transaction-order.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:allegro-internal/transaction-facade.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:allegro-internal/delivery-method-manager.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:allegro-internal/delivery-method-aggregator.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:allegro-internal/dispatch-cutoff-provider.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:allegro-internal/offer-store-feeder.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:kam531/tic-tac-toe.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:aPusio/projekt-grupowy-ZDJAVApol103.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:allegro-internal/product-index-search.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:allegro-internal/pmd-airflow.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:allegro-internal/pmd-spark-jobs.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:allegro-internal/product-management.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/allegro-internal/offer-store.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:allegro-internal/allegro-care-variants-facade.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:allegro-internal/product-update-suggestions.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/allegro-internal/tecdoc-specification-service" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:allegro-internal/product-update-suggestions-monitoring.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:allegro-internal/mskip-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:allegro-internal/pmd-airflow-config.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/allegro-internal/product-user-tasks.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:allegro-internal/product-taxonomy.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:allegro-internal/product-identification-rules.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:allegro-internal/pmd-admin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:aPusio/restaurant-seat-booking-system.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://gitlab.com/adam.pusio/hibernate-arpjavapl3.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitlab.com/adam.pusio/hibernate-training.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\aPusio\IdeaProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
     <option name="COLUMN_ID_ORDER">
       <list>
         <option value="Default.Root" />
-        <option value="Default.Author" />
         <option value="Default.Subject" />
+        <option value="Default.Author" />
         <option value="Default.Date" />
         <option value="Space.CommitStatus" />
       </list>
