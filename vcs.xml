@@ -202,6 +202,10 @@
           <option name="url" value="git@github.com:allegro-internal/product-index-ohs-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:allegro-internal/size-charts-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/allegro" />
